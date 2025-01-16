@@ -1,49 +1,59 @@
 ---
 permalink: /
-title: "Hui Zhao"
+title: "Hi~ I'm Hui Zhao (赵辉)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+
+I am pursuing the Ph.D. degree with the School of Computer Science and Engineering, University of Electronic Science and Technology of China. My research is supervised by Prof. [Zheng Chang](https://scholar.google.com.hk/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). Now I am a visiting PhD student at school of  computer science, University College Dublin supervised by Prof. [Madhusanka Liyanage](https://scholar.google.com/citations?user=p1n0ioUAAAAJ&hl=en&oi=ao). I am a student member of IEEE. I served as the TPC member of IEEE WCNC2024-WS11. My research is primarily centered around the utilization of AI in **UAV wireless networks**. The key objectives are to address <font color=Navy>"how the UVA wireless networks can provide better wireless access service and edge computing service as aerial BSs"</font> AND "<font color=Navy>how to realize effective data collection strategy in UAV-assisted networks" </font>with the help of **DL/ML**.
+
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**Journals**
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<ol reversed>  
+    <li>Y. Bai, <b>H. Zhao</b>, X. Zhang, Z. Chang, R. Jäntti and K. Yang, "<a href="https://ieeexplore.ieee.org/document/10283826">Toward Autonomous Multi-UAV Wireless Network: A Survey of Reinforcement Learning-Based Approaches</a>," <i>IEEE Communications Surveys & Tutorials</i>, vol. 25, no. 4, pp. 3038-3067, 2023.(<b>IF: 35.6, Rank: Q1</b>)</li>  
+    <li><b>H. Zhao</b>, G. Lu, Y. Liu, Z. Chang, L. Wang and T. Hämäläinen, "<a href="https://ieeexplore.ieee.org/document/10584082">Safe DQN-Based AoI-Minimal Task Offloading for UAV-Aided Edge Computing System</a>," <i>IEEE Internet of Things Journal</i>, vol. 11, no. 19, pp. 32012-32024, 1 Oct.1, 2024.(<b>IF: 10.6, Rank: Q1</b>)</li>  
+    <li>X. Zhang, W. Chen, <b>H. Zhao</b>, Z. Chang and Z. Han, "<a href="https://ieeexplore.ieee.org/document/10542529">Joint Accuracy and Latency Optimization for Quantized Federated Learning in Vehicular Networks</a>," <i>IEEE Internet of Things Journal</i>, vol. 11, no. 17, pp. 28876-28890, 1 Sept.1, 2024.(<b>IF: 7.9, Rank: Q1</b>) </li>  
+    <li>X. Xu, Q. Wang, S. Li, H. Xu, <b>H. Zhao</b> and Z. Han, "<a href="https://ieeexplore.ieee.org/document/10160200">An Adaptive Dual-Mode Task-Oriented Resource Management Strategy for GEO Relay Systems</a>," <i>IEEE Transactions on Mobile Computing</i>, vol. 23, no. 5, pp. 4303-4317, May 2024. (<b>IF: 7.9, Rank: Q1</b>)</li>  
+    <li>X. Xu, <b>H. Zhao</b>, H. Yao and S. Wang, "<a href="https://ieeexplore.ieee.org/document/9220772">A Blockchain-Enabled Energy-Efficient Data Collection System for UAV-Assisted IoT</a>," <i>IEEE Internet of Things Journal</i>, vol. 8, no. 4, pp. 2431-2443, 15 Feb.15, 2021.(<b>IF: 10.6, Rank: Q1</b>) </li>
+    <li>X. Xu, <b>H. Zhao</b>, C. Liu, et al. <a 								href="https://link.springer.com/article/10.1007/s12083-021-01139-w">Resource management of GEO relays for real-time remote sensing</a>. <i>Peer-to-Peer Netw. Appl</i>. 14, 3333–3348 (2021). (IF: 4.2, Rank: Q2)</li>
+</ol>
 
-Getting started
+**Conference**
+
+<ol reversed>  
+    <li> <b>H. Zhao</b>, X. Zhang, W. Long, X. Xu and Z. Chang, " Multi-dimensional Resource Allocation in HAP- assisted UAV Wireless Networks for IoRT Data Collection." <i>in 2023 IEEE Global Communications Conference</i>(<b>accept</b>)</li>    
+    <li><b>H. Zhao</b> and Z. Chang, "<a href="https://ieeexplore.ieee.org/document/10436986">Energy Efficient Trajectory Optimization and Resource Allocation for HAP-Assisted UAV Wireless Networks</a>," <i>in 2023 IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023, pp. 3765-3770.</li>
+    <li>X. Xu, <b>H. Zhao</b>, C. Liu, C. Fan, Z. Liang and S. Wang, "<a href="https://ieeexplore.ieee.org/document/9500539">On the Aggregated Resource Management for Satellite Edge Computing</a>," in <i>2021 IEEE International Conference on Communications</i>, Montreal, QC, Canada.</li>
+</ol>
+
+On-Going Works
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<ol reversed>   
+    <li> <b>H. Zhao</b>, M. Luan, M. Liyanage, Z. Chang, "Joint Optimization of Sensing, Communication, Computing for Collaborative Multi-UAV Edge Computing System." (submitted to <i>IEEE Transactions on Wireless Communications</i>) </li>
+</ol>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Paper Reviewer 
+======
 
-**Markdown generator**
+- ***IEEE Wireless Communications and Networking Conference 2024***
+- ***IEEE Global Communications Conference 2023***
+- ***IEEE International Conference on Computer Communications (INFOCOM) 2022***
+- ***IEEE Network Magazine***
+- ***IEEE Internet of Things Journal***
+- ***IEEE Transactions on Cognitive Communications and Networking***
+- ***China Communications***
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+---
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+>*“To see the world, things dangerous to come to. To see behind walls, to draw closer. To find each other and to feel. That is the purpose of LIFE.”*
+>
+>*“开拓视野，冲破艰险，洞悉所有，贴近生活，寻找真爱，感受彼比。这就是人生的目的。”*
+>
+>​                                                                                                                                                        *---------《白日梦想家》*
