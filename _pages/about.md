@@ -21,7 +21,7 @@ Publications
     <li>X. Zhang, W. Chen, <b>H. Zhao</b>, Z. Chang and Z. Han, "<a href="https://ieeexplore.ieee.org/document/10542529">Joint Accuracy and Latency Optimization for Quantized Federated Learning in Vehicular Networks</a>," <i>IEEE Internet of Things Journal</i>, vol. 11, no. 17, pp. 28876-28890, 1 Sept.1, 2024.(<b>IF: 7.9, Rank: Q1</b>) </li>  
     <li>X. Xu, Q. Wang, S. Li, H. Xu, <b>H. Zhao</b> and Z. Han, "<a href="https://ieeexplore.ieee.org/document/10160200">An Adaptive Dual-Mode Task-Oriented Resource Management Strategy for GEO Relay Systems</a>," <i>IEEE Transactions on Mobile Computing</i>, vol. 23, no. 5, pp. 4303-4317, May 2024. (<b>IF: 7.9, Rank: Q1</b>)</li>  
     <li>X. Xu, <b>H. Zhao</b>, H. Yao and S. Wang, "<a href="https://ieeexplore.ieee.org/document/9220772">A Blockchain-Enabled Energy-Efficient Data Collection System for UAV-Assisted IoT</a>," <i>IEEE Internet of Things Journal</i>, vol. 8, no. 4, pp. 2431-2443, 15 Feb.15, 2021.(<b>IF: 10.6, Rank: Q1</b>) </li>
-    <li>X. Xu, <b>H. Zhao</b>, C. Liu, et al. <a 								href="https://link.springer.com/article/10.1007/s12083-021-01139-w">Resource management of GEO relays for real-time remote sensing</a>. <i>Peer-to-Peer Netw. Appl</i>. 14, 3333–3348 (2021). (IF: 4.2, Rank: Q2)</li>
+    <li>X. Xu, <b>H. Zhao</b>, C. Liu, et al. <a 								href="https://link.springer.com/article/10.1007/s12083-021-01139-w">Resource management of GEO relays for real-time remote sensing</a>. <i>Peer-to-Peer Netw. Appl</i>. 14, 3333–3348 (2021). (<b>IF: 4.2, Rank: Q2</b>)</li>
 </ol>
 
 **Conference**
