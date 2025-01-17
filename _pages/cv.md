@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "You can download my CV [here](/files/CV_ZhaoHui.pdf). "
+title: "Curriculum Vitae‌"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,3 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV [here](files/CV_ZhaoHui.pdf).
+======
