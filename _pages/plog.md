@@ -10,8 +10,7 @@ modified: 2025-01
 ## Photos of attending academic conferences 
 
 ----
-![本地图片](images/2409chengdu.JPG "Intelligent Networks 2024/09, Chengdu, China")
-
+<img src="{{ site.baseurl }}/images/2409chengdu.JPG" alt="本地图片" title="Intelligent Networks 2024/09, Chengdu, China">
 
 ---
 
