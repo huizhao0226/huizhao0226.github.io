@@ -17,11 +17,14 @@ main:
  # - title: "Portfolio"
  #   url: /portfolio/
         
-  - title: "Plog Posts"
-    url: /year-archive/
+
     
   - title: "CV"
     url: /cv/
+
+  - title: "Plog Posts"
+    url: /plog/
+    #url: /year-archive/
     
   #- title: "Guide"
   #  url: /markdown/
