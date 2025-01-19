@@ -1,7 +1,7 @@
 ---
 permalink: /plog/
 title: "Academic Conference Plog "
-modified: 2016-06-06
+modified: 20256-01
 ---
 
 {% include base_path %}
