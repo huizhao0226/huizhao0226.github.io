@@ -1,7 +1,7 @@
 ---
 permalink: /plog/
 title: "Academic Conference Plog "
-modified: 20256-01
+modified: 2025-01
 ---
 
 {% include base_path %}
@@ -10,8 +10,8 @@ modified: 20256-01
 ## Photos of attending academic conferences 
 
 ----
+![本地图片](images/2409chengdu.JPG "Intelligent Networks 2024/09, Chengdu, China")
 
-<img src="images/2409chengdu.JPG" alt="本地图片" title="Intelligent Networks 2024/09, Chengdu, China" style="zoom:50%;" />
 
 ---
 
