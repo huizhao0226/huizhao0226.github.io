@@ -13,7 +13,7 @@ modified: 2025-01
 <img src="{{ site.baseurl }}/images/2409chengdu.JPG" alt="本地图片" title="Intelligent Networks" style="width:80%;">
 <p>Intelligent Networks, Chengdu, China, 2024/09</p>
 ---
-<img src="{{ site.baseurl }}/images/ICCC.JPG" alt="本地图片" title="IEEE ICCC" style="width:80%;">
+<img src="{{ site.baseurl }}/images/ICCC.jpg" alt="本地图片" title="IEEE ICCC" style="width:80%;">
 <p>ICCC, Hangzhou, China, 2024/08</p>
 ---
 <img src="{{ site.baseurl }}/images/GC23.JPG" alt="本地图片" title="IEEE GLOBECOM" style="width:80%;">
