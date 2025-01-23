@@ -27,7 +27,7 @@ Publications
 **Conference**
 
 <ol reversed>  
-    <li> <b>H. Zhao</b>, X. Zhang, W. Long, X. Xu and Z. Chang, " Multi-dimensional Resource Allocation in HAP- assisted UAV Wireless Networks for IoRT Data Collection." <i>in 2023 IEEE Global Communications Conference</i>(<b>accept</b>)</li>    
+    <li> <b>H. Zhao</b>, X. Zhang, W. Long, X. Xu and Z. Chang, " Multi-dimensional Resource Allocation in HAP- assisted UAV Wireless Networks for IoRT Data Collection." <i>in 2024 IEEE Global Communications Conference</i>(<b>accept</b>)</li>    
     <li><b>H. Zhao</b> and Z. Chang, "<a href="https://ieeexplore.ieee.org/document/10436986">Energy Efficient Trajectory Optimization and Resource Allocation for HAP-Assisted UAV Wireless Networks</a>," <i>in 2023 IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023, pp. 3765-3770.</li>
     <li>X. Xu, <b>H. Zhao</b>, C. Liu, C. Fan, Z. Liang and S. Wang, "<a href="https://ieeexplore.ieee.org/document/9500539">On the Aggregated Resource Management for Satellite Edge Computing</a>," in <i>2021 IEEE International Conference on Communications</i>, Montreal, QC, Canada.</li>
 </ol>
