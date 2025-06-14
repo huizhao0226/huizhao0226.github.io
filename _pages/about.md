@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am pursuing the Ph.D. degree with the School of Computer Science and Engineering, University of Electronic Science and Technology of China. My research is supervised by Prof. [Zheng Chang](https://scholar.google.com.hk/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). Now I am a visiting PhD student at school of  computer science, University College Dublin supervised by Prof. [Madhusanka Liyanage](https://scholar.google.com/citations?user=p1n0ioUAAAAJ&hl=en&oi=ao). I am a student member of IEEE. I served as the TPC member of IEEE WCNC2024-WS11. My research is primarily centered around the utilization of AI in **UAV wireless networks**. The key objectives are to address <font color=Navy>"how the UVA wireless networks can provide better wireless access service and edge computing service as aerial BSs"</font> AND "<font color=Navy>how to realize effective data collection strategy in UAV-assisted networks" </font>with the help of **DL/ML**.
+I am pursuing the Ph.D. degree with the School of Computer Science and Engineering, University of Electronic Science and Technology of China. My research is supervised by Prof. [Zheng Chang](https://scholar.google.com.hk/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). Now I am a visiting PhD student at the School of Computer Science, University College Dublin, supervised by Prof. [Madhusanka Liyanage](https://scholar.google.com/citations?user=p1n0ioUAAAAJ&hl=en&oi=ao). I am a student member of IEEE. I served as the TPC member of IEEE WCNC2024-WS11. My research is primarily centered around the utilization of AI in **UAV wireless networks**. The key objectives are to address <font color=Navy>"how the UVA wireless networks can provide better wireless access service and edge computing service as aerial BSs"</font> with the help of **DL/ML**.
 
 Publications
 ======
@@ -36,12 +36,16 @@ On-Going Works
 ======
 
 <ol reversed>   
-    <li> <b>H. Zhao</b>, M. Luan, M. Liyanage, Z. Chang, "Joint Optimization of Sensing, Communication, Computing for Collaborative Multi-UAV Edge Computing System." (submitted to <i>IEEE Transactions on Wireless Communications</i>) </li>
+    <li> <b>H. Zhao</b>, M. Luan, M. Liyanage, Z. Chang, "Joint Optimization of Sensing, Communication, Computing for Collaborative Multi-UAV Edge Computing System." (submitted to <i>IEEE Transactions on Wireless Communications (major revision)</i>) </li>
+   <li> <b>H. Zhao</b>, P. Ranaweera, M. Liyanage, Z. Chang, "Collaborative Sensing, Communication and Computing for UAV-assisted Space-Air Networks." (submitted to <i>IEEE Globecom 2025</i>) </li>
 </ol>
 
 Paper Reviewer 
 ======
-
+- ***IEEE Global Communications Conference 2025***
+- ***IEEE Communications Magazine***
+- ***IEEE Conference on Vehicular Technology (VTC) 2025-spring***
+- ***IEEE Transactions on Machine Learning in Communications and Networking***
 - ***IEEE Wireless Communications and Networking Conference 2024***
 - ***IEEE Global Communications Conference 2023***
 - ***IEEE International Conference on Computer Communications (INFOCOM) 2022***
