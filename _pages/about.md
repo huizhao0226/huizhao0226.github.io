@@ -17,7 +17,7 @@ Publications
 
 <ol reversed> 
     <li> <b>H. Zhao</b>, M. Luan, M. Liyanage, Z. Chang, "<a href="https://ieeexplore.ieee.org/abstract/document/11095979">Joint Optimization of Sensing, Communication, Computing for Collaborative Multi-UAV Edge Computing System</a>", <i>IEEE Transactions on Wireless Communications</i>, doi: 10.1109/TWC.2025.3590253. (<b>IF: 10.6, Rank: Q1</b>) </li>
-    <li>Y. Bai, <b>H. Zhao</b>, X. Zhang, Z. Chang, R. Jäntti and K. Yang, "<a href="https://ieeexplore.ieee.org/document/10283826">Toward Autonomous Multi-UAV Wireless Network: A Survey of Reinforcement Learning-Based Approaches</a>," <i>IEEE Communications Surveys & Tutorials</i>, vol. 25, no. 4, pp. 3038-3067, 2023.(<b>IF: 35.6, Rank: Q1</b>)</li>  
+    <li>Y. Bai, <b>H. Zhao</b>, X. Zhang, Z. Chang, R. Jäntti and K. Yang, "<a href="https://ieeexplore.ieee.org/document/10283826">Toward Autonomous Multi-UAV Wireless Network: A Survey of Reinforcement Learning-Based Approaches</a>," <i>IEEE Communications Surveys & Tutorials</i>, vol. 25, no. 4, pp. 3038-3067, 2023.(<b>IF: 46.7, Rank: Q1</b>)</li>  
     <li><b>H. Zhao</b>, G. Lu, Y. Liu, Z. Chang, L. Wang and T. Hämäläinen, "<a href="https://ieeexplore.ieee.org/document/10584082">Safe DQN-Based AoI-Minimal Task Offloading for UAV-Aided Edge Computing System</a>," <i>IEEE Internet of Things Journal</i>, vol. 11, no. 19, pp. 32012-32024, 1 Oct.1, 2024.(<b>IF: 10.6, Rank: Q1</b>)</li>  
     <li>X. Zhang, W. Chen, <b>H. Zhao</b>, Z. Chang and Z. Han, "<a href="https://ieeexplore.ieee.org/document/10542529">Joint Accuracy and Latency Optimization for Quantized Federated Learning in Vehicular Networks</a>," <i>IEEE Internet of Things Journal</i>, vol. 11, no. 17, pp. 28876-28890, 1 Sept.1, 2024.(<b>IF: 7.9, Rank: Q1</b>) </li>  
     <li>X. Xu, Q. Wang, S. Li, H. Xu, <b>H. Zhao</b> and Z. Han, "<a href="https://ieeexplore.ieee.org/document/10160200">An Adaptive Dual-Mode Task-Oriented Resource Management Strategy for GEO Relay Systems</a>," <i>IEEE Transactions on Mobile Computing</i>, vol. 23, no. 5, pp. 4303-4317, May 2024. (<b>IF: 7.9, Rank: Q1</b>)</li>  
@@ -63,6 +63,7 @@ Paper Reviewer
 >*“开拓视野，冲破艰险，洞悉所有，贴近生活，寻找真爱，感受彼比。这就是人生的目的。”*
 >
 >​                                                                                                                                                        *---------《白日梦想家》*
+
 
 
 
