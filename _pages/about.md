@@ -9,7 +9,22 @@ redirect_from:
 
 
 
-I am pursuing the Ph.D. degree with the School of Computer Science and Engineering, University of Electronic Science and Technology of China. My research is supervised by Prof. [Zheng Chang](https://scholar.google.com.hk/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). Now I am a visiting PhD student at the School of Computer Science, University College Dublin, supervised by Prof. [Madhusanka Liyanage](https://scholar.google.com/citations?user=p1n0ioUAAAAJ&hl=en&oi=ao). I am a student member of IEEE. I served as the TPC member of IEEE WCNC2024-WS11. My research is primarily centered around the utilization of AI in **UAV wireless networks**. The key objectives are to address <font color=Navy>"how the UAV wireless networks can provide better wireless access service and edge computing service as aerial BSs"</font> with the help of **DL/ML**.
+I am pursuing the Ph.D. degree with the School of Computer Science and Engineering, University of Electronic Science and Technology of China. My research is supervised by Prof. [Zheng Chang](https://scholar.google.com.hk/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). I was a visiting PhD student at the School of Computer Science, University College Dublin, supervised by Prof. [Madhusanka Liyanage](https://scholar.google.com/citations?user=p1n0ioUAAAAJ&hl=en&oi=ao). I am a student member of IEEE. I served as the TPC member of IEEE WCNC2024-WS11. My research is primarily centered around the utilization of AI in **UAV wireless networks**. The key objectives are to address <font color=Navy>"how the UAV wireless networks can provide better wireless access service and edge computing service as aerial BSs"</font> with the help of **DL/ML**.
+
+
+Seeking Postdoc Positions
+======
+<div style="background-color: #f9f9f9; padding: 15px; border-left: 6px solid #2c3e50; margin-bottom: 20px;">
+  <p>🚀 I am currently seeking <b>Postdoctoral opportunities</b> starting from <b>[12/2026]</b>. My research focus is evolving towards the next generation of wireless systems, with a particular interest in:</p>
+  <ul>
+    <li><b>Space-Air-Ground Integrated Networks</b></li>
+    <li><b>Edge Intelligence</b></li>
+    <li><b>AI-Radio Access Networks (AI-RAN)</b></li>
+  </ul>
+  <p>If you are interested in my research background or have potential openings, please feel free to reach out via email!</p>
+</div>
+
+
 
 Publications
 ======
