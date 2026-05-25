@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-
+<style>
+.pub-list li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
 
 I am currently pursuing the Ph.D. degree with the School of Computer Science and Engineering, University of Electronic Science and Technology of China. My research is supervised by Prof. [Zheng Chang](https://scholar.google.com.hk/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). In 2025, I was a visiting PhD student at the School of Computer Science, University College Dublin, supervised by Prof. [Madhusanka Liyanage](https://scholar.google.com/citations?user=p1n0ioUAAAAJ&hl=en&oi=ao). I am a Student Member of IEEE. I served as a TPC member for IEEE ICC 2026, VTC 2026-Spring and WCNC 2024-WS11 and as a reviewer for IEEE journals. My research primarily focuses on **AI-enabled space-air-ground integrated networks (SAGINs)**. The key objectives are to address <font color=Navy>"how SAGINs can provide better wireless access services and edge intelligence services"</font> with the help of **DL/ML**.
 
@@ -30,9 +35,9 @@ Publications
 ======
 **Journals**
 
-<ol reversed> 
+<ol reversed class="pub-list"> 
   <li> <b>H. Zhao</b>, M. Luan, P. Ranaweera, M. Liyanage and Z. Chang, "<a href="https://ieeexplore.ieee.org/document/11523614">AI-Native Resource Orchestration for Collaborative Sensing, Communication and Computing in UAV-Enabled Space-Air Networks</a>", <i>IEEE Transactions on Vehicular Technology</i>, doi: 10.1109/TVT.2026.3694488. (<b>IF: 7.4, Rank: Q2</b>) </li>
-    <li> <b> M. Luan,  H. Zhao</b>,  C. Jin, Z. Chang, F. Hu and Y. -C. Liang, "<a href="https://ieeexplore.ieee.org/abstract/document/11471679">Dual-Security-Assured Computation Offloading for ISCC LEO Satellite-Enabled Space-Air-Ground Networks</a>", <i>IEEE Journal on Selected Areas in Communications</i>, vol. 44, pp. 4520-4534, 2026, doi: 10.1109/JSAC.2026.3679661. (<b>IF: 14.8, Rank: Q1</b>) </li> 
+    <li> M. Luan,  <b>H. Zhao</b>,  C. Jin, Z. Chang, F. Hu and Y. -C. Liang, "<a href="https://ieeexplore.ieee.org/abstract/document/11471679">Dual-Security-Assured Computation Offloading for ISCC LEO Satellite-Enabled Space-Air-Ground Networks</a>", <i>IEEE Journal on Selected Areas in Communications</i>, vol. 44, pp. 4520-4534, 2026, doi: 10.1109/JSAC.2026.3679661. (<b>IF: 14.8, Rank: Q1</b>) </li> 
     <li> <b>H. Zhao</b>, M. Luan, M. Liyanage, Z. Chang, "<a href="https://ieeexplore.ieee.org/abstract/document/11095979">Joint Optimization of Sensing, Communication, Computing for Collaborative Multi-UAV Edge Computing System</a>", <i>IEEE Transactions on Wireless Communications</i>, doi: 10.1109/TWC.2025.3590253. (<b>IF: 10.6, Rank: Q1</b>) </li>
     <li>Y. Bai, <b>H. Zhao</b>, X. Zhang, Z. Chang, R. Jäntti and K. Yang, "<a href="https://ieeexplore.ieee.org/document/10283826">Toward Autonomous Multi-UAV Wireless Network: A Survey of Reinforcement Learning-Based Approaches</a>," <i>IEEE Communications Surveys & Tutorials</i>, vol. 25, no. 4, pp. 3038-3067, 2023.(<b>IF: 46.7, Rank: Q1</b>)</li>  
     <li><b>H. Zhao</b>, G. Lu, Y. Liu, Z. Chang, L. Wang and T. Hämäläinen, "<a href="https://ieeexplore.ieee.org/document/10584082">Safe DQN-Based AoI-Minimal Task Offloading for UAV-Aided Edge Computing System</a>," <i>IEEE Internet of Things Journal</i>, vol. 11, no. 19, pp. 32012-32024, 1 Oct.1, 2024.(<b>IF: 10.6, Rank: Q1</b>)</li>  
@@ -44,7 +49,7 @@ Publications
 
 **Conference**
 
-<ol reversed>  
+<ol reversed class="pub-list">   
      <li> <b>H. Zhao</b>, P. Ranaweera, M. Liyanage, Z. Chang, " <a href="https://ieeexplore.ieee.org/document/11432358">Collaborative Sensing, Communication and Computing for UAV-assisted Space-Air Networks</a>" <i>in IEEE 2025 IEEE Global Communications Conference</i>, Taipei, Taiwan, 2025, pp. 2456-2461.</li>
     <li> <b>H. Zhao</b>, X. Zhang, W. Long, X. Xu and Z. Chang, " <a href="https://ieeexplore.ieee.org/document/10901801">Multi-dimensional Resource Allocation in HAP- assisted UAV Wireless Networks for IoRT Data Collection</a>" <i>in 2024 IEEE Global Communications Conference</i>, Cape Town, South Africa, 2024, pp. 217-222.</li>    
     <li><b>H. Zhao</b> and Z. Chang, "<a href="https://ieeexplore.ieee.org/document/10436986">Energy Efficient Trajectory Optimization and Resource Allocation for HAP-Assisted UAV Wireless Networks</a>," <i>in 2023 IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023, pp. 3765-3770.</li>
@@ -54,7 +59,7 @@ Publications
 On-Going Works
 ======
 
-<ol reversed>   
+<ol reversed class="pub-list">    
     <li> <b>H. Zhao</b>, M. Luan, P. Ranaweera, M. Liyanage, Z. Chang, "Multimodal Sensing Communication and Inference in Open RAN-empowered Low Altitude Network." (submitted to <i>IEEE Internet of Things Journal, Major revision</i>) </li>
     <li> <b>H. Zhao</b>, M. Luan, Z. Chang, "Joint Task Partitioning and CPU-GPU Resource Scheduling for Space-Air Edge Computing Networks." (submitted to <i>IEEE IEEE IEEE Wireless Communications Letters</i>) </li>
      <li>X. Xu, T. Zhang, X. Yang, J. Pan, J. Gao, <b>H. Zhao*</b>, C. Jiang, "Digital Twin-Driven Service-Oriented Resource Scheduling for LEO Satellite-Enabled Cloud-Edge-End Collaboration." (submitted to <i>submitted to IEEE Journal on Selected Areas in Communications, corresponding author</i>) </li>
