@@ -9,13 +9,13 @@ redirect_from:
 
 
 
-I am pursuing the Ph.D. degree with the School of Computer Science and Engineering, University of Electronic Science and Technology of China. My research is supervised by Prof. [Zheng Chang](https://scholar.google.com.hk/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). I was a visiting PhD student at the School of Computer Science, University College Dublin, supervised by Prof. [Madhusanka Liyanage](https://scholar.google.com/citations?user=p1n0ioUAAAAJ&hl=en&oi=ao). I am a student member of IEEE. I served as the TPC member of IEEE WCNC2024-WS11. My research is primarily centered around the utilization of AI in **UAV wireless networks**. The key objectives are to address <font color=Navy>"how the UAV wireless networks can provide better wireless access service and edge computing service as aerial BSs"</font> with the help of **DL/ML**.
+I am currently pursuing the Ph.D. degree with the School of Computer Science and Engineering, University of Electronic Science and Technology of China. My research is supervised by Prof. [Zheng Chang](https://scholar.google.com.hk/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). In 2025, I was a visiting PhD student at the School of Computer Science, University College Dublin, supervised by Prof. [Madhusanka Liyanage](https://scholar.google.com/citations?user=p1n0ioUAAAAJ&hl=en&oi=ao). I am a Student Member of IEEE. I served as a TPC member for IEEE ICC 2026, VTC 2026-Spring and WCNC 2024-WS11 and as a reviewer for IEEE journals. My research primarily focuses on ** AI-enabled space-air-ground integrated networks (SAGINs) **. The key objectives are to address <font color=Navy>"how SAGINs can provide better wireless access services and edge intelligence services"</font> with the help of **DL/ML**.
 
 
 Seeking Postdoc Positions
 ======
 <div style="background-color: #f9f9f9; padding: 15px; border-left: 6px solid #2c3e50; margin-bottom: 20px;">
-  <p>🚀 I am currently seeking <b>Postdoctoral opportunities</b> starting from <b>[12/2026]</b>. My research focus is evolving towards the next generation of wireless systems, with a particular interest in:</p>
+  <p>🚀 I am currently seeking <b>Postdoctoral opportunities</b> starting from <b>[12/2026]</b>. My research focus is evolving towards the next generation of wireless networks, with a particular interest in:</p>
   <ul>
     <li><b>Space-Air-Ground Integrated Networks</b></li>
     <li><b>Edge Intelligence</b></li>
@@ -31,6 +31,8 @@ Publications
 **Journals**
 
 <ol reversed> 
+  <li> <b>H. Zhao</b>, M. Luan, P. Ranaweera, M. Liyanage and Z. Chang, "<a href="https://ieeexplore.ieee.org/abstract/document/11095979">AI-Native Resource Orchestration for Collaborative Sensing, Communication and Computing in UAV-Enabled Space-Air Networks</i>, doi: 10.1109/TVT.2026.3694488. (<b>IF: 7.4, Rank: Q2</b>) </li>
+    <li> <b> M. Luan,  H. Zhao</b>,  C. Jin, Z. Chang, F. Hu and Y. -C. Liang, "<a href="https://ieeexplore.ieee.org/abstract/document/11471679">Dual-Security-Assured Computation Offloading for ISCC LEO Satellite-Enabled Space-Air-Ground Networks</a>", <i>IEEE Journal on Selected Areas in Communications</i>, vol. 44, pp. 4520-4534, 2026, doi: 10.1109/JSAC.2026.3679661. (<b>IF: 14.8, Rank: Q1</b>) </li> 
     <li> <b>H. Zhao</b>, M. Luan, M. Liyanage, Z. Chang, "<a href="https://ieeexplore.ieee.org/abstract/document/11095979">Joint Optimization of Sensing, Communication, Computing for Collaborative Multi-UAV Edge Computing System</a>", <i>IEEE Transactions on Wireless Communications</i>, doi: 10.1109/TWC.2025.3590253. (<b>IF: 10.6, Rank: Q1</b>) </li>
     <li>Y. Bai, <b>H. Zhao</b>, X. Zhang, Z. Chang, R. Jäntti and K. Yang, "<a href="https://ieeexplore.ieee.org/document/10283826">Toward Autonomous Multi-UAV Wireless Network: A Survey of Reinforcement Learning-Based Approaches</a>," <i>IEEE Communications Surveys & Tutorials</i>, vol. 25, no. 4, pp. 3038-3067, 2023.(<b>IF: 46.7, Rank: Q1</b>)</li>  
     <li><b>H. Zhao</b>, G. Lu, Y. Liu, Z. Chang, L. Wang and T. Hämäläinen, "<a href="https://ieeexplore.ieee.org/document/10584082">Safe DQN-Based AoI-Minimal Task Offloading for UAV-Aided Edge Computing System</a>," <i>IEEE Internet of Things Journal</i>, vol. 11, no. 19, pp. 32012-32024, 1 Oct.1, 2024.(<b>IF: 10.6, Rank: Q1</b>)</li>  
@@ -53,8 +55,10 @@ On-Going Works
 ======
 
 <ol reversed>   
-    <li> <b>H. Zhao</b>, M. Luan, P. Ranaweera, M. Liyanage, Z. Chang, "AI-Native Resource Orchestration for Collaborative Sensing, Communication and Computing in UAV-enabled Space-Air Networks." (submitted to <i>IEEE Transactions on Communications</i>) </li>
-   <li> M. Luan, <b>H. Zhao</b>, C. Jin, C, Zheng, F. Hu, Y. Liang, "Dual-Security-Assured Computation Offloading for ISCC LEO Satellite-Enabled Space-Air-Ground Networks." (submitted to <i>IEEE Journal on Selected Areas in Communications</i>, accepted) </li>
+    <li> <b>H. Zhao</b>, M. Luan, P. Ranaweera, M. Liyanage, Z. Chang, "Multimodal Sensing Communication and Inference in Open RAN-empowered Low Altitude Network." (submitted to <i>IEEE Internet of Things Journal, Major revision</i>) </li>
+    <li> <b>H. Zhao</b>, M. Luan, Z. Chang, "Joint Task Partitioning and CPU-GPU Resource Scheduling for Space-Air Edge Computing Networks." (submitted to <i>IEEE IEEE IEEE Wireless Communications Letters</i>) </li>
+     <li>X. Xu, T. Zhang, X. Yang, J. Pan, J. Gao, <b>H. Zhao*</b>, C. Jiang, "Digital Twin-Driven Service-Oriented Resource Scheduling for LEO Satellite-Enabled Cloud-Edge-End Collaboration." (submitted to <i>submitted to IEEE Journal on Selected Areas in Communications, corresponding author</i>) </li>
+   
 </ol>
 
 Paper Reviewer 
