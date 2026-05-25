@@ -62,7 +62,7 @@ On-Going Works
 <ol reversed class="pub-list">    
     <li> <b>H. Zhao</b>, M. Luan, P. Ranaweera, M. Liyanage, Z. Chang, "Multimodal Sensing Communication and Inference in Open RAN-empowered Low Altitude Network." (submitted to <i>IEEE Internet of Things Journal, Major revision</i>) </li>
     <li> <b>H. Zhao</b>, M. Luan, Z. Chang, "Joint Task Partitioning and CPU-GPU Resource Scheduling for Space-Air Edge Computing Networks." (submitted to <i>IEEE IEEE IEEE Wireless Communications Letters</i>) </li>
-     <li>X. Xu, T. Zhang, X. Yang, J. Pan, J. Gao, <b>H. Zhao*</b>, C. Jiang, "Digital Twin-Driven Service-Oriented Resource Scheduling for LEO Satellite-Enabled Cloud-Edge-End Collaboration." (submitted to <i>submitted to IEEE Journal on Selected Areas in Communications, corresponding author</i>) </li>
+     <li>X. Xu, T. Zhang, X. Yang, J. Pan, J. Gao, <b>H. Zhao*</b>, C. Jiang, "Digital Twin-Driven Service-Oriented Resource Scheduling for LEO Satellite-Enabled Cloud-Edge-End Collaboration." (<i>submitted to IEEE Journal on Selected Areas in Communications, corresponding author</i>) </li>
    
 </ol>
 
